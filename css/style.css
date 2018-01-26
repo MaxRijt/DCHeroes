@@ -1,0 +1,367 @@
+#main-header {
+  background-color: #547fc3;
+  width: 1480px;
+  height: 110px;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+#tagline {
+  position: absolute;
+  top: 10px;
+  left: 150px;
+  color: white;
+  font-family: Impact, fantasy;
+  font-size: 50px;
+}
+
+#tagline a {
+  color: white;
+  text-decoration: none;
+}
+
+#main-container {
+  width: 1500px;
+  margin: 0 auto;
+}
+
+#Teams {
+  float: left;
+  background-color: #f2f2f2;
+  width: 300px;
+  height: 580px;
+  font-family: cursive;
+}
+
+#Categories a {
+  color: #2661c1;
+  text-decoration: none;
+}
+
+#heroes_list {
+  float: left;
+  background-color: #d0d0d0;
+  width: 400px;
+  height: 580px;
+  overflow-y: scroll;
+  position: relative;
+}
+
+#listHeroes {
+  background-image: url("../images/heroBackground.png");
+  width: 370px;
+  height: 230px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+#heroName {
+  position: absolute;
+  font-size: 25px;
+  left: 160px;
+  margin-top: 30px;
+  font-family: Impact, fantasy;
+  color: #598de0;
+}
+
+#heroImage img {
+  width: 140px;
+  height: 230px;
+}
+
+#heroPower {
+  font-family: Impact, fantasy;
+  font-size: 15px;
+  color: white;
+  margin-top: 100px;
+  position: absolute;
+  left: 160px;
+}
+
+#Powers h3 {
+  color: white;
+  font-family: Impact, fantasy;
+  position: absolute;
+  margin-top: 80px;
+  left: 160px;
+}
+
+.more-info-btn {
+  padding: 0px 20px;
+  margin-top: 185px;
+  left: 255px;
+  color: white;
+  font-size: 15px;
+  background-color: #598de0;
+  border-radius: 15px;
+  position: absolute;
+  font-family: Comic Sans MS;
+  font-style: normal;
+  text-decoration: none;
+}
+
+#one_hero {
+  float: left;
+  background-color: #969696;
+  width: 800px;
+  height: 580px;
+  overflow-y: scroll;
+  float: left;
+}
+
+#Special-hero {
+  width: 750px;
+  height: 750px;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+#ProfileBackground {
+  position: relative;
+}
+
+#Special-heroName {
+  color: white;
+  font-size: 40px;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -160px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#Special-heroImage img {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  position: relative;
+  left: 290px;
+  top: -150px;
+
+}
+
+#Special-Head-Description h2 {
+  color: #151613;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -140px;
+}
+
+#Special-heroDescription {
+  font-size: 18px;
+  position: relative;
+  top: -145px;
+}
+
+#Special-Powers h2 {
+  color: #151613;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -140px;
+}
+
+#Special-heroPower {
+  font-size: 18px;
+  position: relative;
+  top: -145px;
+}
+
+#Special-Head-Rate h2 {
+  color: #151613;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -140px;
+}
+
+#Rate-Button {
+  color: #0b2129;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: 10px;
+}
+
+#Special-Head-Review-Rate h3 {
+  color: #0b2129;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -140px;
+}
+
+#Special-Head-Comment h3 {
+  color: #0b2129;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -120px;
+}
+
+#Special-Comments {
+  font-size: 18px;
+  position: relative;
+  top: -140px;
+}
+
+#test {
+  color: #151613;
+  font-family: Impact, fantasy;
+  position: relative;
+  top: -140px;
+}
+
+#Special-Review {
+  font-size: 18px;
+  position: relative;
+  top: -150px;
+}
+
+#Special-Review a {
+  padding: 0px 20px;
+  margin-top: 140px;
+  color: white;
+  font-size: 15px;
+  background-color: #000000;
+  border-radius: 15px;
+  position: absolute;
+  left: 0px;
+  font-family: Comic Sans MS;
+  font-style: normal;
+  text-decoration: none;
+}
+
+#select-hero {
+  text-align: center;
+  font-size: 50px;
+  font-family: Impact, fantasy;
+  position: relative;
+}
+
+#nothing-show {
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact, fantasy;
+  position: relative;
+}
+
+#Thanks-Page {
+  background-image: url("../images/heroBackground.png");
+  background-size: cover;
+  height: 715px;
+  width: 1520px;
+  font-family: Impact, fantasy;
+  position: absolute;
+}
+
+#Thanks-Page h1 {
+  color: #16478f;
+  font-size: 60px;
+  text-align: center;
+  position: relative;
+}
+
+#Rated-Button {
+  color: #4588ed;
+  font-size: 30px;
+  position: relative;
+  top: 250px;
+  left: 580px;
+}
+
+#Rated-Button {
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/* Ratings widget */
+@font-face
+{
+    font-family: 'anudawitalic';
+    src: url('../fonts/anudi-webfont.woff2') format('woff2'),
+         url('../fonts/anudi-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face
+{
+    font-family: 'anudawregular';
+    src: url('../fonts/anudrg-webfont.woff2') format('woff2'),
+         url('../fonts/anudrg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+form.frmRate
+{
+	margin: 10px auto;
+}
+
+.rate {
+    float: left;
+    position: relative;
+    top: -30px;
+}
+
+
+/* Hide radio */
+.rate > input[type='radio']
+{
+    display: none;
+}
+
+/* Order correctly by floating highest to the right */
+.rate > label.lblRating
+{
+    float: right;
+}
+
+/* The star of the show */
+.rate > label.lblRating:before
+{
+    display: inline-block;
+    font-size: 30px;
+    padding: 5px;
+    margin: 0;
+    cursor: pointer;
+    font-family: FontAwesome;
+    content: "\f005 "; /* full star */
+}
+
+/* Zero stars rating */
+.rate > label.lblRating:last-child:before
+{
+    content: "\f006 "; /* empty star outline */
+}
+
+/* Half star trick */
+.rate label.half:before
+{
+    content: "\f089 "; /* half star no outline */
+    position: absolute;
+    padding-right: 0;
+}
+
+/* Click + hover color */
+input:checked ~ label.lblRating,
+label.lblRating:hover, label.lblRating:hover ~ label
+{
+	color: #ffd900;
+}
+
+/* Hover highlights */
+input:checked + label.lblRating:hover, input:checked ~ label.lblRating:hover, /* highlight current and previous stars */
+input:checked ~ label.lblRating:hover ~ label.lblRating, /* highlight previous selected stars for new rating */
+label.lblRating:hover ~ input:checked ~ label.lblRating /* highlight previous selected stars */
+{
+	color: #f0cc00;
+}
